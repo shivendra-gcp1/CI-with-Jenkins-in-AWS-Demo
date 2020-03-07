@@ -17,7 +17,7 @@ spec:
   spec:
    containers:
    - name: mywebapp
-     image: tejasshahdevops/devops:tagversion
+     image: gcr.io/git-261005/tejasshahdevops/devops:tagversion
      ports:
      - containerPort: 8080
 
